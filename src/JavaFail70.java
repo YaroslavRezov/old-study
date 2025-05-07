@@ -1,0 +1,2 @@
+public class JavaFail70 {
+}
